@@ -1,0 +1,9 @@
+# звіти (markdown, рисунки, docx, pdf) — лише локально
+report/
+
+# артефакти збирання .NET
+bin/
+obj/
+
+# службові файли macOS
+.DS_Store
